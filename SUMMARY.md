@@ -7,7 +7,6 @@
 * [Widget](widget/README.md)
    * [带overflow效果的按钮](widget/css_overflowlabel.md)
    * [QAction](widget/31qmenu.md)
-   * [test](widget\test)
 * [List Widget](list/README.md)
    * [遍历List Widget](list/list_widget.md)
    * [同时勾选多个items](list/article.md)
